@@ -1,0 +1,84 @@
+<resources>
+    <string name="app_name">MarkIt Notes</string>
+    <string name="search_hint">Search in MarkIt Notes</string>
+    <string name="clear_search">Clear Search</string>
+    <string name="sort_notes">Sort Notes</string>
+    <string name="date">Date</string>
+    <string name="sort_date_modified">Date Modified</string>
+    <string name="sort_date_created">Date Created</string>
+    <string name="sort_title">Title</string>
+    <string name="sort_ascending">Ascending</string>
+    <string name="sort_descending">Descending</string>
+    <string name="view_grid">Grid View</string>
+    <string name="view_list">List View</string>
+    <string name="menu">Menu</string>
+    <string name="add_note">Add Note</string>
+    <string name="welcome_title">Welcome to MarkIt Notes!</string>
+    <string name="welcome_message">To get started, please select a folder where your notes will be stored. You own your data!</string>
+    <string name="select_folder">Select Folder</string>
+    <string name="folder_access_needed">Folder Access Needed</string>
+    <string name="folder_access_rationale">MarkIt Notes needs access to a folder to read and save your markdown notes.</string>
+    <string name="grant_access">Grant Access</string>
+
+    <!-- Dialogs -->
+    <string name="empty_trash_title">Empty Trash?</string>
+    <string name="empty_trash_message">All notes in Trash will be permanently deleted.</string>
+    <string name="empty_trash_confirm">Empty</string>
+    <string name="delete_label_title">Delete Label?</string>
+    <string name="delete_label_message">Are you sure you want to delete label \"%1$s\"?</string>
+    <string name="delete_label_confirm">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete_selected_notes_title">Delete selected notes?</string>
+    <string name="delete_selected_notes_message">Are you sure you want to delete these %1$d notes?</string>
+
+    <!-- Toasts & Messages -->
+    <string name="label_deleted_toast">Label deleted</string>
+    <string name="press_back_again_exit">Press back again to exit</string>
+    <string name="error_delete_label_not_empty">Label must be empty to delete it</string>
+    <string name="loading_notes">Loading notes...</string>
+    <string name="no_results_found">No results found</string>
+
+    <!-- Navigation & Headers -->
+    <string name="all_notes">All notes</string>
+    <string name="labels">Labels</string>
+    <string name="create_new_label">Create new label</string>
+    <string name="archive">Archive</string>
+    <string name="trash">Trash</string>
+    <string name="pinned">Pinned</string>
+    <string name="others">Others</string>
+    <string name="archived_notes_header">Archived notes</string>
+    <string name="search_everywhere">Search everywhere</string>
+    <string name="search_results">Search results</string>
+    <string name="inbox">Inbox</string>
+    <string name="inbox_no_label">Inbox (No Label)</string>
+
+    <!-- Actions -->
+    <string name="empty_trash_desc">Empty Trash</string>
+    <string name="restore">Restore</string>
+    <string name="move">Move</string>
+    <string name="pin_unpin">Pin/Unpin</string>
+    <string name="unarchive">Unarchive</string>
+    <string name="delete">Delete</string>
+    <string name="done">Done</string>
+    <string name="back">Back</string>
+    <string name="label">Label</string>
+    <string name="edit">Edit</string>
+    <string name="create">Create</string>
+    <string name="close_selection">Close Selection</string>
+    <string name="more_options">More options</string>
+
+    <!-- Editor -->
+    <string name="label_name_hint">Label name</string>
+    <string name="title_hint">Title</string>
+    <string name="start_typing_hint">Start typing...</string>
+    <string name="inline_math">Inline $...$</string>
+    <string name="block_math">Block $$...$$</string>
+
+    <!-- Reminders Screen -->
+    <string name="reminders">Reminders</string>
+    <string name="reminders_empty">No reminders set</string>
+    <string name="reminders_section_overdue">Overdue</string>
+    <string name="reminders_section_today">Today</string>
+    <string name="reminders_section_upcoming">Upcoming</string>
+
+</resources>
